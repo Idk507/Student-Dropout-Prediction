@@ -1,4 +1,4 @@
-## Usage
+## System for Early Student Dropout Prediction
 
 To use the code in this repository, follow these steps:
 
